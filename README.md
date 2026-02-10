@@ -1,4 +1,4 @@
-# ## Hi there, I'm Ricardo 👋
+# Hi there, I'm Ricardo 👋
 
 I am a **Software Developer, Student, and Tutor** specializing in **Machine Learning** and **Competitive Programming**. I love building cool stuff that works.
 
