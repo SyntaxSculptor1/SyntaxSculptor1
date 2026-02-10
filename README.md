@@ -12,11 +12,6 @@ I specialise in python because when you have a swiss army knife, do you really n
 - **Contact:** [ricardo@rubert.es](mailto:ricardo@rubert.es)
 
 ---
-### 📊 My GitHub Stats
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyntaxSculptor1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxSculptor1&layout=compact&theme=radical)
-
----
 
 Anyways, have a look around, if there is anything that catches your eye dont hesitate to contact me!
 
