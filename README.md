@@ -4,6 +4,8 @@ I am a **Software Developer, Student, and Tutor** specializing in **Machine Lear
 
 I specialise in python because when you have a swiss army knife, do you really need anything else?
 
+Here is my portfolio website, you can find all about me [here](https://syntaxsculptor1.github.io/portfolio-website/)
+
 ---
 
 ### 🛠 Tech & Tools
